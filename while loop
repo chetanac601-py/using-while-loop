@@ -1,0 +1,13 @@
+variable_count = 1
+
+while variable_count<=20 :
+    if variable_count ==4 :
+       print(f"variable{variable_count}")
+
+    else:
+    
+
+         print(f"variable{variable_count}")    
+    variable_count +=1
+
+    
